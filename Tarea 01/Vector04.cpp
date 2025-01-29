@@ -1,6 +1,6 @@
 /*
 Integrantes (GRUPO 6):
-	- Ccahuana Quiñones Judith Valeria
+	- Ccahuana QuiÃ±ones Judith Valeria
 	- Jimenez Vera Angie Danna
 */
 
